@@ -8,7 +8,7 @@ the calorie level of the regular customer and recommend them on basis of there p
 Likewise they work for both regular and new customers
 
 ## File Descriptions <a name="files"></a>
-There are three main foleders:
+There are three main folders:
 1. data
     - disaster_categories.csv: dataset including all the categories 
     - disaster_messages.csv: dataset including all the messages

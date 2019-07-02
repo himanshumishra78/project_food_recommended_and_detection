@@ -35,6 +35,6 @@ There are two main foleders:
     - haarcascade_frontalface_alt2.xml:Opencv classifier to detect image
 ## Model Link <a name="files"></a>
 https://drive.google.com/file/d/1cqzG8qhYQrB8auKqrmke0TgfZ78f-Pfl/view?usp=drivesdk
-## Basic Requirments <a name="files"></a>
+## Basic Requirment <a name="files"></a>
 1.Install all the required library
-2.Give input correctly
+

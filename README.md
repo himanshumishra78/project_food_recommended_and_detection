@@ -1,4 +1,4 @@
-# project_food_calorie_detection
+# ML_food_calorie_detection_and_food_recommended_System
 High calorie intake has proved harmful worldwide,as it has led to many diseases 
 However,dieticians have deemed that a standard intake of number of calories is essential to maintain the right balance of calorie content 
 in human body

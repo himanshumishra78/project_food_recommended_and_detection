@@ -33,8 +33,8 @@ There are two main foleders:
     - fod_recmond_dbase.py:recommend food to customer
     - store_order_signup.py: store details of food in  database for old customer and also details of new customer
     - haarcascade_frontalface_alt2.xml:Opencv classifier to detect image
-Model Link:-
+## Model Link <a name="files"></a>
 https://drive.google.com/file/d/1cqzG8qhYQrB8auKqrmke0TgfZ78f-Pfl/view?usp=drivesdk
-#Basic Requirments:-
+## Basic Requirments <a name="files"></a>
 1.Install all the required library
 2.Give input correctly

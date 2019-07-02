@@ -37,4 +37,6 @@ There are two main foleders:
 https://drive.google.com/file/d/1cqzG8qhYQrB8auKqrmke0TgfZ78f-Pfl/view?usp=drivesdk
 ## Basic Requirment <a name="files"></a>
 1.Install all the required library
+## Guidance <a name="files"></a>
+Credits must be given to the company who created Food 101 dataset and my mentor Saurabh Bhardwaj(https://www.linkedin.com/in/saurabh-bhardwaj-b97a1539/) who provide me to guidence in this project 
 

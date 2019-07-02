@@ -1,12 +1,13 @@
-# project_food_calorie_detection_
+# project_food_calorie_detection
 High calorie intake has proved harmful worldwide,as it has led to many diseases 
 However,dieticians have deemed that a standard intake of number of calories is essential to maintain the right balance of calorie content 
 in human body
-So, This project is based on Food detection and recommendation through machine learning,wherein from height and weight parameter, we will recommens wether the particular food calorie harmful for your body or not
+So, This project is based on Food detection and recommendation through machine learning,wherein from height and weight parameter, we will recommens wether the particular food calorie harFile_Descriptionsmful for your body or not
 This particular Model shows 78% in accuracy we test data on 101 food category, This Project is also used in restaurants where it detects
 the calorie level of the regular customer and recommend them on basis of there previous order observations and if the consumer is new it will save the customer details and the food details which they ordered a ,into database
 Likewise they work for both regular and new customers
-#File_Descriptions
+
+#Fi
 There are two main foleders:
 
 cal_recommd_food
